@@ -1,0 +1,146 @@
+Region,Facility,Category,Quantity,Unit,Start Date,End Date,Transport,Emission Factor ID,Emission Factor Name,Emission Factor Value,Emission Factor Unit,emission_co2e
+Europe,Facility 1,Business Travel,603,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,183.915
+Europe,Facility 1,Business Travel,338,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,50.361999999999995
+Europe,Facility 1,Business Travel,568,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.3625599999999998
+Europe,Facility 1,Business Travel,841,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,256.505
+Europe,Facility 1,Business Travel,526,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,78.374
+Europe,Facility 1,Business Travel,565,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.3447999999999998
+Europe,Facility 2,Business Travel,356,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,108.58
+Europe,Facility 2,Business Travel,667,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,99.383
+Europe,Facility 2,Business Travel,316,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.87072
+Europe,Facility 2,Business Travel,889,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,271.145
+Europe,Facility 2,Business Travel,739,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,110.11099999999999
+Europe,Facility 2,Business Travel,530,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.1376
+United States,Facility 6,Business Travel,790,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,240.95
+United States,Facility 6,Business Travel,561,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,83.589
+United States,Facility 6,Business Travel,306,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.81152
+United States,Facility 6,Business Travel,221,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,67.405
+United States,Facility 6,Business Travel,711,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,105.939
+United States,Facility 6,Business Travel,389,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.30288
+United States,Facility 7,Business Travel,795,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,242.475
+United States,Facility 7,Business Travel,245,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,36.504999999999995
+United States,Facility 7,Business Travel,670,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.9664
+United States,Facility 7,Business Travel,387,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,118.035
+United States,Facility 7,Business Travel,498,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,74.202
+United States,Facility 7,Business Travel,514,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.04288
+United States,Facility 8,Business Travel,117,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,35.685
+United States,Facility 8,Business Travel,395,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,58.855
+United States,Facility 8,Business Travel,735,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.3511999999999995
+United States,Facility 8,Business Travel,315,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,96.075
+United States,Facility 8,Business Travel,614,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,91.48599999999999
+United States,Facility 8,Business Travel,782,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.62944
+South East Asia,Facility 3,Business Travel,611,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,186.355
+South East Asia,Facility 3,Business Travel,456,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,67.944
+South East Asia,Facility 3,Business Travel,284,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.6812799999999999
+South East Asia,Facility 3,Business Travel,579,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,176.595
+South East Asia,Facility 3,Business Travel,482,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,71.818
+South East Asia,Facility 3,Business Travel,775,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.588
+South East Asia,Facility 4,Business Travel,395,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.3384
+South East Asia,Facility 4,Business Travel,844,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,257.42
+South East Asia,Facility 4,Business Travel,332,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,49.467999999999996
+South East Asia,Facility 4,Business Travel,895,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,5.2984
+South East Asia,Facility 4,Business Travel,568,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,173.24
+South East Asia,Facility 4,Business Travel,207,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,30.843
+South East Asia,Facility 5,Business Travel,414,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.45088
+South East Asia,Facility 5,Business Travel,594,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,181.17
+South East Asia,Facility 5,Business Travel,143,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,21.307
+South East Asia,Facility 5,Business Travel,873,p.km,2023-01-01,2023-12-31,Air,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,5.16816
+South East Asia,Facility 5,Business Travel,338,p.km,2023-01-01,2023-12-31,Air,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,103.09
+South East Asia,Facility 5,Business Travel,854,p.km,2023-01-01,2023-12-31,Air,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,127.246
+Europe,Facility 1,Business Travel,225,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.332
+Europe,Facility 1,Business Travel,175,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,53.375
+Europe,Facility 1,Business Travel,117,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,17.433
+Europe,Facility 1,Business Travel,380,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.2496
+Europe,Facility 1,Business Travel,554,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,168.97
+Europe,Facility 1,Business Travel,511,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,76.139
+Europe,Facility 2,Business Travel,633,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.74736
+Europe,Facility 2,Business Travel,606,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,184.82999999999998
+Europe,Facility 2,Business Travel,441,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,65.709
+Europe,Facility 2,Business Travel,687,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.0670399999999995
+Europe,Facility 2,Business Travel,404,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,123.22
+Europe,Facility 2,Business Travel,671,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,99.979
+United States,Facility 6,Business Travel,760,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.4992
+United States,Facility 6,Business Travel,751,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,229.055
+United States,Facility 6,Business Travel,637,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,94.913
+United States,Facility 6,Business Travel,777,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.59984
+United States,Facility 6,Business Travel,436,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,132.98
+United States,Facility 6,Business Travel,629,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,93.72099999999999
+United States,Facility 7,Business Travel,217,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.28464
+United States,Facility 7,Business Travel,824,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,251.32
+United States,Facility 7,Business Travel,842,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,125.458
+United States,Facility 7,Business Travel,147,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,0.87024
+United States,Facility 7,Business Travel,194,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,59.17
+United States,Facility 7,Business Travel,740,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,110.25999999999999
+United States,Facility 8,Business Travel,101,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,0.59792
+United States,Facility 8,Business Travel,670,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,204.35
+United States,Facility 8,Business Travel,593,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,88.357
+United States,Facility 8,Business Travel,214,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.26688
+United States,Facility 8,Business Travel,651,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,198.555
+United States,Facility 8,Business Travel,170,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,25.33
+South East Asia,Facility 3,Business Travel,236,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.39712
+South East Asia,Facility 3,Business Travel,648,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,197.64
+South East Asia,Facility 3,Business Travel,703,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,104.747
+South East Asia,Facility 3,Business Travel,891,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,5.27472
+South East Asia,Facility 3,Business Travel,874,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,266.57
+South East Asia,Facility 3,Business Travel,242,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,36.058
+South East Asia,Facility 4,Business Travel,554,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.27968
+South East Asia,Facility 4,Business Travel,245,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,74.725
+South East Asia,Facility 4,Business Travel,378,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,56.321999999999996
+South East Asia,Facility 4,Business Travel,666,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.94272
+South East Asia,Facility 4,Business Travel,835,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,254.67499999999998
+South East Asia,Facility 4,Business Travel,153,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,22.797
+South East Asia,Facility 5,Business Travel,461,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.72912
+South East Asia,Facility 5,Business Travel,501,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,152.805
+South East Asia,Facility 5,Business Travel,438,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,65.262
+South East Asia,Facility 5,Business Travel,219,p.km,2023-01-01,2023-12-31,Road,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.29648
+South East Asia,Facility 5,Business Travel,500,p.km,2023-01-01,2023-12-31,Road,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,152.5
+South East Asia,Facility 5,Business Travel,722,p.km,2023-01-01,2023-12-31,Road,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,107.57799999999999
+Europe,Facility 1,Business Travel,384,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.2732799999999997
+Europe,Facility 1,Business Travel,732,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,223.26
+Europe,Facility 1,Business Travel,118,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,17.582
+Europe,Facility 1,Business Travel,257,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.52144
+Europe,Facility 1,Business Travel,646,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,197.03
+Europe,Facility 1,Business Travel,489,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,72.86099999999999
+Europe,Facility 2,Business Travel,351,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.0779199999999998
+Europe,Facility 2,Business Travel,769,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,234.545
+Europe,Facility 2,Business Travel,651,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,96.999
+Europe,Facility 2,Business Travel,180,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.0655999999999999
+Europe,Facility 2,Business Travel,527,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,160.73499999999999
+Europe,Facility 2,Business Travel,226,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,33.674
+Europe,Facility 2,Business Travel,671,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.97232
+United States,Facility 6,Business Travel,324,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,98.82
+United States,Facility 6,Business Travel,539,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,80.31099999999999
+United States,Facility 6,Business Travel,433,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.56336
+United States,Facility 6,Business Travel,375,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,114.375
+United States,Facility 6,Business Travel,553,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,82.39699999999999
+United States,Facility 6,Business Travel,365,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.1608
+United States,Facility 7,Business Travel,780,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,237.9
+United States,Facility 7,Business Travel,831,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,123.81899999999999
+United States,Facility 7,Business Travel,723,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.2801599999999995
+United States,Facility 7,Business Travel,564,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,172.02
+United States,Facility 7,Business Travel,114,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,16.986
+United States,Facility 7,Business Travel,181,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.07152
+United States,Facility 8,Business Travel,711,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,216.855
+United States,Facility 8,Business Travel,719,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,107.131
+United States,Facility 8,Business Travel,316,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.87072
+United States,Facility 8,Business Travel,879,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,268.09499999999997
+United States,Facility 8,Business Travel,823,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,122.627
+United States,Facility 8,Business Travel,827,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.89584
+South East Asia,Facility 3,Business Travel,401,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,122.30499999999999
+South East Asia,Facility 3,Business Travel,486,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,72.414
+South East Asia,Facility 3,Business Travel,820,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.8544
+South East Asia,Facility 3,Business Travel,352,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,107.36
+South East Asia,Facility 3,Business Travel,182,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,27.118
+South East Asia,Facility 3,Business Travel,110,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,0.6512
+South East Asia,Facility 4,Business Travel,520,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,158.6
+South East Asia,Facility 4,Business Travel,599,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,89.25099999999999
+South East Asia,Facility 4,Business Travel,245,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,1.4504
+South East Asia,Facility 4,Business Travel,753,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,229.665
+South East Asia,Facility 4,Business Travel,508,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,75.692
+South East Asia,Facility 4,Business Travel,422,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,2.49824
+South East Asia,Facility 5,Business Travel,170,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,51.85
+South East Asia,Facility 5,Business Travel,154,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,22.945999999999998
+South East Asia,Facility 5,Business Travel,805,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,4.7656
+South East Asia,Facility 5,Business Travel,137,p.km,2023-01-01,2023-12-31,Train,262740,"Passenger aircraft, 101 - 220 seats, <500 km jet, Without RF, Full scope",0.305,p.km,41.785
+South East Asia,Facility 5,Business Travel,888,p.km,2023-01-01,2023-12-31,Train,5418889,"Passenger car, Gasoline, Average distance, Full scope",0.149,p.km,132.31199999999998
+South East Asia,Facility 5,Business Travel,593,p.km,2023-01-01,2023-12-31,Train,5424149,"Mainline train, 2019 (Full Scope)",0.00592,p.km,3.51056

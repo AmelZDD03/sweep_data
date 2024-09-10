@@ -1,0 +1,6 @@
+services:
+  sweep_project:
+    build: .
+    volumes:
+      - .:/app
+    command: ["python" , "main.py"]

@@ -1,0 +1,94 @@
+Quantity in kg,Unit,Start date,End date,Material,Facility,Origin,Supplier,Emission Factor ID,Emission Factor Name,Emission Factor Value,Emission Factor Unit,emission_co2e
+5.635,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,9579.5
+4.5294,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,7699.98
+16909.0,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,28745300.0
+14988.05,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,25479685.0
+21953.75,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,37321375.0
+16385.67,kg,2020-01-01,2020-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,27855638.999999996
+2.9139264,kg,2021-01-01,2021-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,4953.67488
+5.8830336,kg,2021-01-01,2021-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,10001.15712
+6.315084,kg,2021-01-01,2021-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,10735.6428
+7.2077688,kg,2021-01-01,2021-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,12253.20696
+1.99998,kg,2021-01-01,2021-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,3399.9660000000003
+3.6671268,kg,2022-01-01,2022-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,6234.11556
+3.6145508,kg,2022-01-01,2022-12-31,Aluminium,Facility 4,Southern Africa,AECI,259795,"Metals (aluminum, copper, steel, etc.)",1700.0,kg,6144.73636
+5.221258,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,3.4256725950580003
+4.321359,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.8352479612590002
+3.416728,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.241718657528
+3.242218,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.127222472018
+2.331945,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,1.5299914464450002
+3.973984,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.6073348763840003
+3.067533,kg,2020-01-01,2020-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.012611468833
+2.9535768,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,1.9378446920568002
+6.1822332,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,4.0561693847532005
+1.840644,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,1.207648369044
+6.058584,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,3.975043020984
+7.254324,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,4.759569230724001
+2.2785408,kg,2021-01-01,2021-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,1.4949528974208002
+3.69,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.42101269
+3.6474588,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.3931013661388003
+3.6046472,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.3650126325672
+3.4526772,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.2653049635972002
+3.4086488,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.2364178863288
+3.3558,kg,2022-01-01,2022-12-31,Chemicals,Facility 4,Southern Europe,Air Liquide,6281843,"Washing agent, multi purpose | Rec/S",0.656101,kg,2.2017437358
+14.747824,kg,2020-01-01,2020-12-31,Glass,Facility 4,South Asia,AGC,6281066,Glass bottles,1.07412,kg,15.84093271488
+17.54676,kg,2020-01-01,2020-12-31,Glass,Facility 4,Eastern Europe,AGC,6281066,Glass bottles,1.07412,kg,18.847325851199997
+63.2427264,kg,2021-01-01,2021-12-31,Glass,Facility 4,Middle East,AGC,6281066,Glass bottles,1.07412,kg,67.930277280768
+36.888768,kg,2021-01-01,2021-12-31,Glass,Facility 4,Southern Africa,AGC,6281066,Glass bottles,1.07412,kg,39.622963484159996
+130.5289512,kg,2021-01-01,2021-12-31,Glass,Facility 4,South Asia,AGC,6281066,Glass bottles,1.07412,kg,140.203757062944
+158.989248,kg,2021-01-01,2021-12-31,Glass,Facility 4,Southern Africa,AGC,6281066,Glass bottles,1.07412,kg,170.77353106176
+100.8119112,kg,2022-01-01,2022-12-31,Glass,Facility 4,Eastern Europe,AGC,6281066,Glass bottles,1.07412,kg,108.28409005814399
+72.0708496,kg,2023-01-01,2023-12-31,Glass,Facility 4,Southern Africa,AGC,6281066,Glass bottles,1.07412,kg,77.412740972352
+78.38193,kg,2023-01-01,2023-12-31,Glass,Facility 4,South Asia,AGC,6281066,Glass bottles,1.07412,kg,84.19159865159999
+90.8208312,kg,2023-01-01,2023-12-31,Glass,Facility 4,Southern Europe,AGC,6281066,Glass bottles,1.07412,kg,97.55247120854399
+3.4509888,kg,2022-01-01,2022-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4747453202194007
+3.3967488,kg,2022-01-01,2022-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.46728363672489026
+3.3318068,kg,2022-01-01,2022-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.45834970144648873
+3.2766708,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4507647571036915
+3.1052688,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4271853420165589
+3.0484688,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4193714846698002
+2.9804868,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4100193429418539
+2.9227908,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.40208222474680827
+2.8628628,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Africa,AECI,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.3938380549743337
+3.3111788,kg,2022-01-01,2022-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.45551195057766947
+3.2662872,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4493363069426738
+3.1070372,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.42742861711043223
+3.0609288,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.42108558084128983
+3.0056,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.41347411340524504
+2.9588988,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.4070495268784414
+2.9119272,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.40058774198849406
+2.8646852,kg,2023-01-01,2023-12-31,Hops,Facility 4,Southern Europe,Air Liquide,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,0.39408875873540294
+46.53726,kg,2020-01-01,2020-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,6.402033643468651
+50.53048,kg,2020-01-01,2020-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,6.951372577169772
+58.409764,kg,2020-01-01,2020-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,8.035309217497206
+58.231355,kg,2020-01-01,2020-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,8.010765864057454
+67.508064,kg,2021-01-01,2021-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,9.286943342462251
+55.4793624,kg,2021-01-01,2021-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,7.632179990893096
+87.646104,kg,2021-01-01,2021-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,12.05729143759113
+124.592256,kg,2021-01-01,2021-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,17.139896388993655
+93.0754552,kg,2022-01-01,2022-12-31,Hops,Facility 4,Central America,Americas Mining Corp,6553911,"Market for sunn hemp plant, harvested",0.137567911034484,kg,12.804195940447698
+114.1827456,kg,2022-01-01,2022-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,89.82706470126682
+45.8888456,kg,2022-01-01,2022-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,36.10055338148782
+66.8778188,kg,2022-01-01,2022-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,52.61248645633547
+90.99454,kg,2022-01-01,2022-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,71.5850051519694
+110.1099248,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,86.62299445759012
+45.1932712,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,35.55334805457943
+66.9469752,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,52.666891492618866
+85.7910204,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,67.49141912610044
+56.81502,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,44.6961268160622
+129.2439156,kg,2020-01-01,2020-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,101.67562102173052
+122.3365464,kg,2021-01-01,2021-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,96.2416239954413
+41.48885,kg,2022-01-01,2022-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,32.6390961589485
+44.6558112,kg,2023-01-01,2023-12-31,Malt,Facility 4,Central America,Americas Mining Corp,6626527,"Barley, whole, raw",0.78669561,kg,35.13053063202884
+43.923992,kg,2020-01-01,2020-12-31,Malt,Facility 4,Southern Africa,Anglo American,6626527,"Barley, whole, raw",0.78669561,kg,34.55481168007512
+16.362423,kg,2020-01-01,2020-12-31,Malt,Facility 4,Southern Africa,Anglo American,6626527,"Barley, whole, raw",0.78669561,kg,12.87224634306303
+119.174688,kg,2021-01-01,2021-12-31,Malt,Facility 4,Southern Africa,Anglo American,6626527,"Barley, whole, raw",0.78669561,kg,93.75420387271969
+33.12043,kg,2020-01-01,2020-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,26.055696882312297
+49.080528,kg,2020-01-01,2020-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,38.61143591408208
+59.526684,kg,2021-01-01,2021-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,46.82938098065724
+69.0322176,kg,2021-01-01,2021-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,54.30734253448473
+96.5657376,kg,2022-01-01,2022-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,75.96784184633194
+117.69615,kg,2022-01-01,2022-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,92.5910445189015
+113.287608,kg,2023-01-01,2023-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,89.12286388100088
+48.39525,kg,2023-01-01,2023-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,38.072330719852495
+88.7721296,kg,2023-01-01,2023-12-31,Malt,Facility 4,South Asia,Ansteel,6626527,"Barley, whole, raw",0.78669561,kg,69.83664464667106
