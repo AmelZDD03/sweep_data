@@ -51,6 +51,8 @@ Pylint
     - Detected an outlier: For now, I replaced it by the median of the same Type data. However, it needs to be reviewed or checked with the business team, if it's possible, to see if it’s a data entry error or whether it can be corrected or not. The appropriate transformation depends on the use case. For example, if it's for machine learning, we should consider what value would be the most accurate to use.
   
   - Mapping each data table with EF data to compute the co2e emissions.
+  - We can rename column names to avoid errors and  facilitate their use. 
+  - Used pylint to analyze and format code.
 
 ## Data extract
 
@@ -74,6 +76,17 @@ Pylint
 
     Returns:
         pd.DataFrame: co2 emissions by facilities
+  - **Function: data_viz**
+      - Docstring: Function to create a bar chart visualizing
+       the total emissions for each facility
+
+    Args:
+        df (pd.DataFrame): data to use
+        x (str): column name for x axis
+        y (str): column name for y axis
+        title (str): title of graph
+        output_graphs (str): output path
+        html_file_name (str): html file name
     
 
 ### Module: transform.py
